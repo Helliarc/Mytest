@@ -3,7 +3,7 @@
 int main()
 {
 
-printf("Hello Mexicaan");
+printf("Hello world");
 
 return 0;
 
